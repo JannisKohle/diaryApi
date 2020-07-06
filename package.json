@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JannisKohle/diaryApp/issues"
   },
-  "homepage": "https://github.com/JannisKohle/diaryApp#readme"
+  "homepage": "https://github.com/JannisKohle/diaryApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
