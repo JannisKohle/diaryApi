@@ -4,7 +4,7 @@
   "description": "An api for writing a diary",
   "main": "index.js",
   "scripts": {
-    "npm": "nodemon index.js"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
