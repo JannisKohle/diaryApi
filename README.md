@@ -9,6 +9,7 @@ To use the api, you must create an account. Then you can create diaries that con
 ## API endpoints:
 
 - ```/users```: **GET, POST, DELETE, PATCH**
+- ```/users/:userId```: **GET, POST, DELETE, PUT, PATCH**
 - ```/diaries```: **GET, POST, DELETE, PATCH**
 - ```/diaries/:diaryId```: **GET, POST, DELETE, PUT, PATCH**
 - ```/diaries/:diaryId/:pageId```: **GET, PUT**
