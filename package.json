@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/JannisKohle/diaryApp#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "shortid": "^2.2.15"
   }
 }
